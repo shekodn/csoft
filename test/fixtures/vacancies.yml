@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  company_id: 1
+  type: 
+  qualifications: MyText
+  position: MyString
+  location: MyString
+  vacancy_id: 1
+  description: MyText
+
+two:
+  company_id: 1
+  type: 
+  qualifications: MyText
+  position: MyString
+  location: MyString
+  vacancy_id: 1
+  description: MyText
